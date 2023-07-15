@@ -1,4 +1,4 @@
-#BMI CALCULATOR
+# BMI CALCULATOR
 
 BMI calculator is an android app implemented using kotlin
 
